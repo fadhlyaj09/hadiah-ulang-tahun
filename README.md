@@ -108,7 +108,7 @@
         const modal = document.getElementById('modal');
         const messageButton = document.getElementById('messageButton');
 
-        const targetDate = new Date('2025-07-20T15:40:00+07:00');
+        const targetDate = new Date('2025-07-20T15:38:00+07:00');
 
         function checkAccess() {
             const now = new Date();
