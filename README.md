@@ -241,7 +241,7 @@
       content.innerHTML = `
         <h1 tabindex="0">Selamat Ulang Tahun ke-20, Najwa Alya Shafarina!</h1>
         <div class="photo-container" aria-label="Foto memorable Najwa Alya Shafarina">
-          <img src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/f5f5c616-eb95-4302-b0d8-a1db19127f1d.png" alt="Foto berwarna hitam putih Najwa Alya Shafarina memakai beanie hitam dengan senyuman hangat, latar belakang gelap"/>
+          <img src="https://drive.google.com/file/d/1U9DxXlWxDCmL-7R9RqZDYB5QAFF5bRMS/view" alt="Foto berwarna hitam putih Najwa Alya Shafarina memakai beanie hitam dengan senyuman hangat, latar belakang gelap"/>
         </div>
         <p class="birthday-msg" tabindex="0">
           Dua puluh tahun perjalananmu menginspirasi dan memberi warna pada dunia. Semoga setiap langkahmu selalu dipenuhi kebahagiaan, cinta, dan keberhasilan tanpa batas. Tetaplah bersinar dan menjadi yang terbaik.<br /><br />
