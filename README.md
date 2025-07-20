@@ -83,7 +83,7 @@
 <body>
 
     <div class="coming-soon" id="coming-soon">
-        <h1>Coming Soon for Najwa’s 20th Birthday 🎉 — Available at 15:40, July 20th 2025</h1>
+        <h1>Coming Soon for Najwa’s 20th Birthday 🎉 — Available at 15:38, July 20th 2025</h1>
     </div>
 
     <div class="main" id="main">
