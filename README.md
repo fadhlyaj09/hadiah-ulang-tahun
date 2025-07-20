@@ -122,7 +122,7 @@
         </div>
         
         <audio id="birthdaySong" loop>
-            <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+            <source src="https://voca.ro/1ecKN8QNPzoi.mp3" type="audio/mpeg">
         </audio>
         <button id="musicToggle" class="music-player">Play Birthday Song</button>
     </div>
